@@ -21,7 +21,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'puma', '~> 3.0'
+  gem 'puma', '~> 3.12'
   gem 'byebug', platform: :mri
   gem 'web-console', '~> 3.4.0'
   gem 'pry-rails'
